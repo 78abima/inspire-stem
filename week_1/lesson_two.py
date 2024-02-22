@@ -1,0 +1,6 @@
+print("my name is abigael")
+print("i am 18 years old")
+print("i come from kiambu county")
+print("I love swimming")
+print("--------------")
+print("###############")
