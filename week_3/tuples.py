@@ -1,6 +1,8 @@
-#
-#
-#
+# this is a tuple of cities
+#Date 28\02\24
+#Name Abigael Mburu
+
+
 
 #Tuples
 

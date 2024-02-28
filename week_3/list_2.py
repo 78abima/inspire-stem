@@ -1,6 +1,8 @@
-#
-#
-#
+#this is program that shows a list of my friends
+#Date 26\02\24
+#Name Abigael Mburu
+
+
 
 friends = ["Chebet","Ivan","Nicole","Shante","Luke"]
 for friend in friends:

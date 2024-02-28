@@ -1,6 +1,8 @@
-#
-#
-#
+#description of my laptop
+#Date 28\02\24
+#Name Abigael Mburu
+
+
 
 laptop = {"make":"hp","color":"black grey","weight":"1.2","year":"2019"}
 
